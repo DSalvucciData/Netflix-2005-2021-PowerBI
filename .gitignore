@@ -1,0 +1,27 @@
+# Power BI temporary files
+*.pbix.tmp
+*.pbit
+
+# User-specific configuration files
+*.local
+
+# Windows system files
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# Cache and log files
+*.log
+*.bak
+*.tmp
+
+# Optional export folders (PDFs, etc.)
+# exports/
+# pdf/
+
+# Microsoft Office temporary files
+~$*
+*.~*
+
+# MacOS system files
+.DS_Store
